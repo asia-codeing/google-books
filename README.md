@@ -5,8 +5,7 @@
 Application give you ability to search for any book through google box api and you can save that book to saved page and also you can view that book throug google books website. 
 
   ## Table of contents
-* [Prerequisites](#Prerequisites)
-* [Usage](#usage)
+* [Note](#Note)
 * [Screenshots](#screenshots)
 * [Link-to-deployed-application](#link-to-deployed-application)
 * [Technologies](#technologies)
@@ -14,14 +13,26 @@ Application give you ability to search for any book through google box api and y
 * [Contributing](#contributing)
 * [Questions](#questions)
 
+  ## Note:
+  I created that repo to deploy my app on heroku becuse I wasn't able to deply it with the old repo [google-books-search](https://github.com/asia-codeing/google-books-search.git). If you need to check the commit hestory for the old repo click here: [google-books-search](https://github.com/asia-codeing/google-books-search.git) to redirect to the other repo.
 
-  ## Usage:
-  
   ## Screenshots:
-  
+  ![Demo](./assets/demo.gif)
+
   ## Link-to-deployed-application 
   [Google-Books](https://google--search--books.herokuapp.com/)
 
+## Technologies
+  Project is created with:
+  * React
+  * React Router
+  * React-bootstrap
+  * Express
+  * MongoDB
+  * CSS 
+  * Node.js
+  * Axios
+  
   ## License:
   This project is convered under the MIT License.
 
